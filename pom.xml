@@ -104,7 +104,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.221.37.46:8081/repository/maven-snapshots/</url>
+	      <url>http://18.221.37.46:8081/repository/tesla-be-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
